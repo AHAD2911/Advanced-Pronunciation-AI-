@@ -1,0 +1,10 @@
+streamlit
+streamlit-lottie
+requests
+torch
+torchaudio
+transformers
+librosa
+soundfile
+numpy
+pydub
