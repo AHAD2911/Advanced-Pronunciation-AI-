@@ -51,4 +51,4 @@ streamlit run streamlit_app.py
 - **Backend Core**: PyTorch
 
 ---
-Designed with ❤️ by AHAD2911
+Designed by AHAD2911
